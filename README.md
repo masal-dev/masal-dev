@@ -1,4 +1,4 @@
-#### See [Marco Salernitano presentation](/Marco_Salernitano) pages using Jekyll templates
+#### See Marco Salernitano's [presentation page](/Marco_Salernitano) using a Jekyll template
 <!--
 ## Hi there 👋
 
