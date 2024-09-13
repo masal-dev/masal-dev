@@ -1,4 +1,4 @@
-#### See Marco Salernitano's [presentation page](/Marco_Salernitano) using a Jekyll template
+#### See Marco Salernitano's [presentation page](https://masal-dev.github.io/Marco_Salernitano) using a Jekyll template
 <!--
 ## Hi there 👋
 
